@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\vscode\bin\Debug\netcoreapp1.1\vscode.deps.json
+C:\Users\Administrator\Documents\vscode\bin\Debug\netcoreapp1.1\vscode.runtimeconfig.json
+C:\Users\Administrator\Documents\vscode\bin\Debug\netcoreapp1.1\vscode.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\vscode\bin\Debug\netcoreapp1.1\vscode.dll
+C:\Users\Administrator\Documents\vscode\bin\Debug\netcoreapp1.1\vscode.pdb
+C:\Users\Administrator\Documents\vscode\obj\Debug\netcoreapp1.1\vscode.AssemblyInfo.cs
+C:\Users\Administrator\Documents\vscode\obj\Debug\netcoreapp1.1\vscode.dll
+C:\Users\Administrator\Documents\vscode\obj\Debug\netcoreapp1.1\vscode.pdb
